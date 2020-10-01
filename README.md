@@ -1,13 +1,15 @@
 About
 ============================================================================
-Versioning is python module for storing and comparing version strings.
+Versioning is a module of python for storing and comparing version strings.
 
 Homepage:
     http://github.com/xificurk/versioning
 
 Author:
     Petr Morávek [Xificurk]
-    Email: petr@pada.cz
+
+Email: petr@pada.cz
+
     Jabber ID: petr@pada.cz
 
 Requirements
